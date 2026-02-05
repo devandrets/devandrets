@@ -18,11 +18,9 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900" alt="AWS" style="height:30px;"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff" alt="Docker" style="height:30px;"/>
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=fff" alt="RabbitMQ" style="height:30px;"/>
-    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=fff" alt="Apache Kafka" style="height:30px;"/>
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=fff" alt="Terraform" style="height:30px;"/>
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff" alt="PostgreSQL" style="height:30px;"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" alt="MongoDB" style="height:30px;"/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=fff" alt="Go" style="height:30px;"/>
   </p>
 </div
 
