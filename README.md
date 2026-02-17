@@ -12,9 +12,6 @@
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=fff" alt="NestJS" style="height:30px;"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" alt="React" style="height:30px;"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript" style="height:30px;"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript" style="height:30px;"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff" alt="HTML5" style="height:30px;"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff" alt="CSS3" style="height:30px;"/>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900" alt="AWS" style="height:30px;"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff" alt="Docker" style="height:30px;"/>
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=fff" alt="RabbitMQ" style="height:30px;"/>
