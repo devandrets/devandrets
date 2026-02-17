@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=fff" alt="NestJS" style="height:30px;"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" alt="React" style="height:30px;"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript" style="height:30px;"/>
+    <br>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900" alt="AWS" style="height:30px;"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff" alt="Docker" style="height:30px;"/>
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=fff" alt="RabbitMQ" style="height:30px;"/>
