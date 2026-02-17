@@ -2,8 +2,6 @@
   <h2>Sejam bem vindo ao meu perfil no Github! 🖖</h2>
 <div>
 
-<br>
-
 <div align="center">
   <h2>Minha Stack! ✨</h2>
   <br>
@@ -26,11 +24,11 @@
 
 <div align="center">
   <h2>Vamos nos conectar!</h2>
-  <a href="https://www.linkedin.com/in/andredevts/">
+  <a href="https://www.linkedin.com/in/devandrets/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff" alt="LinkedIn" style="height:30px;"/>
   </a>
   &nbsp;
-  <a href="http://andredevts.github.io/">
+  <a href="http://devandrets.github.io/">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=githubpages&logoColor=fff" alt="Portfólio" style="height:30px;"/>
   </a>
 </div>
