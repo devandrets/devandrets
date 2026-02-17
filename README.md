@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff" alt="Docker" style="height:30px;"/>
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=fff" alt="RabbitMQ" style="height:30px;"/>
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=fff" alt="Terraform" style="height:30px;"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff" alt="PostgreSQL" style="height:30px;"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=mysql&logoColor=fff" alt="MySQL" style="height:30px;"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" alt="MongoDB" style="height:30px;"/>
   </p>
 </div
