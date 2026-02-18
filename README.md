@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=fff" alt="RabbitMQ" style="height:30px;"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=fff" alt="MySQL" style="height:30px;"/>
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=fff" alt="Terraform" style="height:30px;"/>
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=fff" alt="Terraform" style="height:30px;"/>
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=fff" alt="Grafana" style="height:30px;"/>
   </p>
 </div
 
