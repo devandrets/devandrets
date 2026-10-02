@@ -17,10 +17,22 @@
 
 ### 👨‍💻 Sobre Mim
 * 🎓 Bacharel em **Sistemas de Informação** pela PUC Minas.
-* 🚀 Mais de **3 anos de experiência** em engenharia de software com foco em arquiteturas de backend escaláveis.
+* 🚀 Desenvolvedor Backend com experiência em squads corporativos, construindo e sustentando APIs, microsserviços e esteiras orientadas a eventos.
 * 🏢 Passagens por **Mundiale** (squad de inovação/POCs com Fastify, Monorepo Nx, RabbitMQ e GenAI) e **ioasys** (microsserviços e esteiras de ETL com Go e Apache Kafka para a **CVC Corp**).
+* 📍 Disponível para oportunidades **100% remotas**.
 * ☁️ **3x AWS Certified:** Solutions Architect Associate, Developer Associate e Cloud Practitioner.
 * 🐧 Usuário e entusiasta diário de ambientes **Linux**, containers Docker e automações de terminal.
+
+---
+
+### 📂 Projetos
+
+| Projeto | Stack | O que mostra |
+| :--- | :--- | :--- |
+| [api-node-express-vitest](https://github.com/devandrets/api-node-express-vitest) | TypeScript · Express · Zod · Prisma · Vitest | API REST com validação de schema, ORM e testes automatizados |
+| [poc-nodejs-mongo-rabbitmq](https://github.com/devandrets/poc-nodejs-mongo-rabbitmq) | TypeScript · MongoDB · RabbitMQ · Docker Compose · Jest | Processamento assíncrono com filas e serviços desacoplados |
+| [terraform-aws-nodejs-serverless](https://github.com/devandrets/terraform-aws-nodejs-serverless) | AWS Lambda · Node.js · Terraform | Serverless na AWS com infraestrutura como código |
+| [lorcana-chunks-study](https://github.com/devandrets/lorcana-chunks-study) | TypeScript · Nx Monorepo · pnpm | Monorepo Nx com apps e bibliotecas compartilhadas |
 
 ---
 
