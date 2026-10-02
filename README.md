@@ -29,10 +29,9 @@
 
 | Projeto | Stack | O que mostra |
 | :--- | :--- | :--- |
-| [api-node-express-vitest](https://github.com/devandrets/api-node-express-vitest) | TypeScript · Express · Zod · Prisma · Vitest | API REST com validação de schema, ORM e testes automatizados |
-| [poc-nodejs-mongo-rabbitmq](https://github.com/devandrets/poc-nodejs-mongo-rabbitmq) | TypeScript · MongoDB · RabbitMQ · Docker Compose · Jest | Processamento assíncrono com filas e serviços desacoplados |
-| [terraform-aws-nodejs-serverless](https://github.com/devandrets/terraform-aws-nodejs-serverless) | AWS Lambda · Node.js · Terraform | Serverless na AWS com infraestrutura como código |
+| [radar-tech](https://github.com/devandrets/radar-tech) | Node.js · JavaScript · CLI | Coleta vagas de LinkedIn, Gupy, ProgramaThor e Remotar, aplica regras de filtro e gera um relatório diário em Markdown |
 | [lorcana-chunks-study](https://github.com/devandrets/lorcana-chunks-study) | TypeScript · Nx Monorepo · pnpm | Monorepo Nx com apps e bibliotecas compartilhadas |
+| [badass_scripts_bash](https://github.com/devandrets/badass_scripts_bash) | Shell Script · Linux | Scripts de automação para o dia a dia no terminal |
 
 ---
 
